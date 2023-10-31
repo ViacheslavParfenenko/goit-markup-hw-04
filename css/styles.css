@@ -123,6 +123,11 @@ img {
   position: relative;
 }
 
+.current {
+  color: #404bbf;
+
+}
+
 .header-link:hover,
 .header-link:focus,
 .header-link:active {
